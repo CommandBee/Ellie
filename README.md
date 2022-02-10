@@ -1,5 +1,6 @@
 # Ellie
 
+
 How to use:
 
 Wake Word = 'Ellie'
@@ -9,6 +10,13 @@ If it is your first time we recoment that you use the 'Help' command to find out
 
 
 Current : Ellie 2.0.1
+
+
+Features:
+
+- Search Web
+- Ability to Speak
+
 
 Updates:
 
